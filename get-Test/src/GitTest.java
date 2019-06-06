@@ -1,3 +1,6 @@
 public class GitTest {
-    int a=10;
+
+    public void test(){
+        int a=10;
+    }
 }
